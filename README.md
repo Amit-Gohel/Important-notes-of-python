@@ -28,6 +28,14 @@
       <a href="https://www.geeksforgeeks.org/numpy-squeeze-in-python/">more details</a>
     </td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>Deep Copy and Shallow Copy</td>
+    <td>
+      to create “real copies” or “clones” of these objects.
+      <a href="https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/">more details</a>
+    </td>
+  </tr>
 </table>
 
 </body>
