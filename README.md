@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-
 <h1>Python Notes</h1>
 
 <table id="customers">
@@ -32,13 +26,8 @@
     <td>3</td>
     <td>Deep Copy and Shallow Copy</td>
     <td>
-      to create “real copies” or “clones” of these objects.
+      to create “real copies” or “clones” of objects.
       <a href="https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/">more details</a>
     </td>
   </tr>
 </table>
-
-</body>
-</html>
-
-
