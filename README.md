@@ -34,8 +34,8 @@
     </td>
   </tr>
   
-  <tr>
-    <td>
+  <tr align="center">
+    <td colspan="3">
       Understanding Different Underscores in Python <br>
       youtube link :- 
       <a href="https://www.youtube.com/watch?v=M8-aCSeYzkc">here</a>
