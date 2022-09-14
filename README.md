@@ -96,4 +96,14 @@
     </td>
   </tr>
   
+  <tr>
+    <td>10</td>
+    <td>  import sys
+          sys.executable
+    </td>
+    <td>
+      How to know which Python is running in Jupyter notebook?
+    </td>
+  </tr>
+  
 </table>
