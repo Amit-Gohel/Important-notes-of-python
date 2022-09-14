@@ -98,7 +98,7 @@
   
   <tr>
     <td>10</td>
-    <td>  import sys
+    <td>  import sys<br>
           sys.executable
     </td>
     <td>
