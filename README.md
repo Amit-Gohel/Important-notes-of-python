@@ -106,4 +106,15 @@
     </td>
   </tr>
   
+  <tr>
+    <td>11</td>
+    <td>np.where(condition)[0]</td>
+    <td>
+      a = np.random.random([12,])<br>
+      print(a)<br>
+      b = np.where(0.5 &lt; a)[0] <br>
+      in this b where expect from (a < 0.5)'s index value return
+    </td>
+  </tr>
+  
 </table>
