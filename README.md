@@ -84,7 +84,7 @@
     <td>8</td>
     <td>__x</td>
     <td>
-      name <a href="https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/">Mangling</a> when used in class context
+      name <a href="https://www.geeksforgeeks.org/name-mangling-in-python/">Mangling</a> when used in class context
     </td>
   </tr>
   
