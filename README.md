@@ -117,4 +117,14 @@
     </td>
   </tr>
   
+    <tr>
+    <td>12</td>
+    <td>connect arduino to edge impluse</td>
+    <td>
+      edge-impulse-daemon<br>
+      for connect new project when it's connect to diffrent project <br>
+      edge-impulse-daemon --clean
+    </td>
+  </tr>
+  
 </table>
