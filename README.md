@@ -113,11 +113,11 @@
       a = np.random.random([12,])<br>
       print(a)<br>
       b = np.where(0.5 &lt; a)[0] <br>
-      in this b where expect from (a < 0.5)'s index value return
+      in this b where expect from (a < 0.5)''s index value return
     </td>
   </tr>
   
-    <tr>
+   <tr>
     <td>12</td>
     <td>connect arduino to edge impluse</td>
     <td>
